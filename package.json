@@ -27,6 +27,7 @@
   ],
   "scripts": {
     "prepublish": "babel src --out-dir dist",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -59,6 +60,7 @@
     "eslint-config-thernandez": "0.0.10",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "standard-version": "^7.0.1"
   }
 }
