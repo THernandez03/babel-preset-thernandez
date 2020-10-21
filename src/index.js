@@ -1,5 +1,8 @@
 export default () => ({
-  presets: ['@babel/preset-react', '@babel/preset-env'],
+  presets: [
+    ['@babel/preset-react', { runtime: 'automatic' }],
+    '@babel/preset-env',
+  ],
   plugins: [
     '@babel/plugin-transform-runtime',
     '@babel/plugin-syntax-dynamic-import',
