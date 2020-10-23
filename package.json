@@ -58,7 +58,7 @@
     "@commitlint/cli": "^11.0.0",
     "commitlint-config-thernandez": "0.0.4",
     "eslint": "^7.11.0",
-    "eslint-config-thernandez": "0.0.15",
+    "eslint-config-thernandez": "0.0.17",
     "git-cz": "^4.7.1",
     "husky": "^4.3.0",
     "lint-staged": "^10.4.2",
