@@ -1,8 +1,5 @@
 export default () => ({
-  presets: [
-    ['@babel/preset-react', { runtime: 'automatic' }],
-    '@babel/preset-env',
-  ],
+  presets: ['@babel/preset-env'],
   plugins: [
     '@babel/plugin-transform-runtime',
     '@babel/plugin-syntax-dynamic-import',
@@ -20,6 +17,5 @@ export default () => ({
     ['@babel/plugin-proposal-nullish-coalescing-operator', { loose: false }],
     '@babel/plugin-syntax-import-meta',
     '@babel/plugin-proposal-json-strings',
-    '@emotion',
   ],
 });
