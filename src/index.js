@@ -20,5 +20,6 @@ export default () => ({
     ['@babel/plugin-proposal-nullish-coalescing-operator', { loose: false }],
     '@babel/plugin-syntax-import-meta',
     '@babel/plugin-proposal-json-strings',
+    '@emotion',
   ],
 });
