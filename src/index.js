@@ -10,6 +10,7 @@ export default () => ({
     '@babel/plugin-proposal-do-expressions',
     '@babel/plugin-proposal-numeric-separator',
     '@babel/plugin-proposal-private-methods',
+    '@babel/plugin-syntax-top-level-await',
     ['@babel/plugin-proposal-decorators', { decoratorsBeforeExport: true }],
     ['@babel/plugin-proposal-class-properties', { loose: false }],
     ['@babel/plugin-proposal-optional-chaining', { loose: false }],
