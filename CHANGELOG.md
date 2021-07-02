@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.22](https://github.com/THernandez03/babel-preset-thernandez/compare/v0.0.21...v0.0.22) (2021-07-02)
+
+
+### Bug Fixes
+
+* 🐛 Add prepare script to setup husky ([0bcfa65](https://github.com/THernandez03/babel-preset-thernandez/commit/0bcfa65ca7b8c600546a638a6995b19eb179c654))
+
 ### [0.0.21](https://github.com/THernandez03/babel-preset-thernandez/compare/v0.0.20...v0.0.21) (2021-02-25)
 
 ### [0.0.20](https://github.com/THernandez03/babel-preset-thernandez/compare/v0.0.19...v0.0.20) (2021-01-24)
