@@ -11,12 +11,15 @@ export default () => ({
     '@babel/plugin-proposal-numeric-separator',
     '@babel/plugin-proposal-private-methods',
     '@babel/plugin-syntax-top-level-await',
+    '@babel/plugin-syntax-import-meta',
+    '@babel/plugin-proposal-json-strings',
     ['@babel/plugin-proposal-decorators', { decoratorsBeforeExport: true }],
     ['@babel/plugin-proposal-class-properties', { loose: false }],
     ['@babel/plugin-proposal-optional-chaining', { loose: false }],
-    ['@babel/plugin-proposal-pipeline-operator', { proposal: 'smart' }],
     ['@babel/plugin-proposal-nullish-coalescing-operator', { loose: false }],
-    '@babel/plugin-syntax-import-meta',
-    '@babel/plugin-proposal-json-strings',
+    [
+      '@babel/plugin-proposal-pipeline-operator',
+      { proposal: 'hack', topicToken: '%' },
+    ],
   ],
 });
