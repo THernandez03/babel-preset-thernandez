@@ -59,11 +59,11 @@
     "@babel/eslint-parser": "^7.16.5",
     "@commitlint/cli": "^16.0.1",
     "commitlint-config-thernandez": "^0.0.5",
-    "eslint": "^8.5.0",
+    "eslint": "^8.6.0",
     "eslint-config-thernandez": "^0.0.29",
     "git-cz": "^4.8.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.1.4",
+    "lint-staged": "^12.1.5",
     "prettier": "^2.5.1",
     "standard-version": "^9.3.2"
   }
