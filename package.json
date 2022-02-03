@@ -51,7 +51,7 @@
     "@babel/core": "^7.16.12",
     "@babel/eslint-parser": "^7.16.5",
     "@commitlint/cli": "^16.1.0",
-    "babel-preset-thernandez": "^0.0.24",
+    "babel-preset-thernandez": "^0.0.26",
     "commitlint-config-thernandez": "^0.0.5",
     "eslint": "^8.8.0",
     "eslint-config-thernandez": "^0.0.33",
