@@ -12,6 +12,9 @@ export default () => ({
       { proposal: 'hack', topicToken: '#' },
     ],
     '@babel/plugin-proposal-throw-expressions',
-    ['@babel/plugin-proposal-record-and-tuple', { importPolyfill: true }],
+    [
+      '@babel/plugin-proposal-record-and-tuple',
+      { importPolyfill: true, syntaxType: 'hash' },
+    ],
   ],
 });
