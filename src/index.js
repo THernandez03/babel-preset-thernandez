@@ -9,7 +9,7 @@ export default () => ({
     '@babel/plugin-proposal-partial-application',
     [
       '@babel/plugin-proposal-pipeline-operator',
-      { proposal: 'hack', topicToken: '#' },
+      { proposal: 'hack', topicToken: '%' },
     ],
     '@babel/plugin-proposal-throw-expressions',
     [
