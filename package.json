@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-async-do-expressions": "^7.16.7",
-    "@babel/plugin-proposal-decorators": "^7.17.2",
+    "@babel/plugin-proposal-decorators": "^7.17.8",
     "@babel/plugin-proposal-do-expressions": "^7.16.7",
     "@babel/plugin-proposal-export-default-from": "^7.16.7",
     "@babel/plugin-proposal-partial-application": "^7.16.7",
@@ -44,11 +44,11 @@
     "@babel/plugin-proposal-throw-expressions": "^7.16.7",
     "@babel/plugin-transform-runtime": "^7.16.10",
     "@babel/preset-env": "^7.16.11",
-    "@babel/runtime": "^7.17.7"
+    "@babel/runtime": "^7.17.8"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
-    "@babel/core": "^7.17.7",
+    "@babel/core": "^7.17.8",
     "@babel/eslint-parser": "^7.16.5",
     "@commitlint/cli": "^16.2.3",
     "babel-preset-thernandez": "^0.0.26",
