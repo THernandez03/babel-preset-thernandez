@@ -53,7 +53,7 @@
     "@commitlint/cli": "^17.0.3",
     "babel-preset-thernandez": "^0.0.26",
     "commitlint-config-thernandez": "^0.0.5",
-    "eslint": "^8.21.0",
+    "eslint": "^8.22.0",
     "eslint-config-thernandez": "^0.0.35",
     "git-cz": "^4.9.0",
     "husky": "^8.0.1",
