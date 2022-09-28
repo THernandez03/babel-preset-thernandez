@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-async-do-expressions": "^7.18.6",
-    "@babel/plugin-proposal-decorators": "^7.19.1",
+    "@babel/plugin-proposal-decorators": "^7.19.3",
     "@babel/plugin-proposal-do-expressions": "^7.18.6",
     "@babel/plugin-proposal-export-default-from": "^7.18.10",
     "@babel/plugin-proposal-partial-application": "^7.18.9",
@@ -43,12 +43,12 @@
     "@babel/plugin-proposal-record-and-tuple": "^7.18.6",
     "@babel/plugin-proposal-throw-expressions": "^7.18.6",
     "@babel/plugin-transform-runtime": "^7.19.1",
-    "@babel/preset-env": "^7.19.1",
+    "@babel/preset-env": "^7.19.3",
     "@babel/runtime": "^7.19.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.18.10",
-    "@babel/core": "^7.19.1",
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
     "@babel/eslint-parser": "^7.19.1",
     "@commitlint/cli": "^17.1.2",
     "babel-preset-thernandez": "^0.0.26",
