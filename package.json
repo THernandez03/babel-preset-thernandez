@@ -54,7 +54,7 @@
     "babel-preset-thernandez": "^0.0.26",
     "commitlint-config-thernandez": "^0.0.5",
     "eslint": "^8.29.0",
-    "eslint-config-thernandez": "^0.0.35",
+    "eslint-config-thernandez": "^0.0.37",
     "git-cz": "^4.9.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.1.0",
