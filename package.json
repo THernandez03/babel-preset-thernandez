@@ -57,8 +57,8 @@
     "eslint-config-thernandez": "^0.0.37",
     "git-cz": "^4.9.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.1.0",
-    "prettier": "^2.8.3",
+    "lint-staged": "^13.1.1",
+    "prettier": "^2.8.4",
     "standard-version": "^9.5.0"
   }
 }
