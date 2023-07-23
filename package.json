@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-async-do-expressions": "^7.22.5",
-    "@babel/plugin-proposal-decorators": "^7.22.5",
+    "@babel/plugin-proposal-decorators": "^7.22.7",
     "@babel/plugin-proposal-do-expressions": "^7.22.5",
     "@babel/plugin-proposal-export-default-from": "^7.22.5",
     "@babel/plugin-proposal-partial-application": "^7.22.5",
@@ -42,23 +42,23 @@
     "@babel/plugin-proposal-private-methods": "^7.18.6",
     "@babel/plugin-proposal-record-and-tuple": "^7.22.5",
     "@babel/plugin-proposal-throw-expressions": "^7.22.5",
-    "@babel/plugin-transform-runtime": "^7.22.5",
-    "@babel/preset-env": "^7.22.5",
-    "@babel/runtime": "^7.22.5"
+    "@babel/plugin-transform-runtime": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/runtime": "^7.22.6"
   },
   "devDependencies": {
-    "@babel/cli": "^7.22.5",
-    "@babel/core": "^7.22.5",
-    "@babel/eslint-parser": "^7.22.5",
-    "@commitlint/cli": "^17.6.6",
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/eslint-parser": "^7.22.9",
+    "@commitlint/cli": "^17.6.7",
     "babel-preset-thernandez": "^0.0.26",
     "commitlint-config-thernandez": "^0.0.5",
-    "eslint": "^8.44.0",
+    "eslint": "^8.45.0",
     "eslint-config-thernandez": "^0.0.41",
     "git-cz": "^4.9.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.3",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "standard-version": "^9.5.0"
   }
 }
