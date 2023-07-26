@@ -2,6 +2,7 @@ export default () => ({
   presets: ['@babel/preset-env'],
   plugins: [
     '@babel/plugin-transform-runtime',
+    '@babel/plugin-syntax-import-attributes',
     '@babel/plugin-proposal-async-do-expressions',
     ['@babel/plugin-proposal-decorators', { decoratorsBeforeExport: true }],
     '@babel/plugin-proposal-do-expressions',
