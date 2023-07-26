@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-thernandez",
   "description": "Babel preset definition",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "license": "MIT",
   "homepage": "https://github.com/THernandez03/babel-preset-thernandez#readme",
   "main": "./dist/index.js",
